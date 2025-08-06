@@ -8,7 +8,7 @@ sim:/SPI_master_tb/SS_n \
 sim:/SPI_master_tb/MOSI \
 sim:/SPI_master_tb/MISO \
 sim:/SPI_master_tb/DUT/SPI_slave_inst/tx_data \
-sim:/SPI_master_tb/DUT/SPI_slave_inst/rx_data \                               
+sim:/SPI_master_tb/DUT/SPI_slave_inst/rx_data \
 sim:/SPI_master_tb/DUT/SPI_slave_inst/tx_valid \
 sim:/SPI_master_tb/DUT/SPI_slave_inst/rx_valid \
 sim:/SPI_master_tb/DUT/SPI_slave_inst/cs \
